@@ -1,0 +1,10 @@
+# General plugin informations
+name: Rankers
+main: Minestrap\Rankers\Main
+version: 1.0.0
+api: [4.0.0]
+
+# Others plugin informations
+author: ["HenryDM"]
+website: 'https://miners.github.com/'
+description: 'A plugin to manage tops players in your server'
