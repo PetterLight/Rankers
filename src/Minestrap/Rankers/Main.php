@@ -5,6 +5,8 @@ namespace Minestrap\Rankers;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 
+use Minestrap\Rankers\Events\PlayerStats;
+
 class Main extends PluginBase implements Listener {
 
     /** @var Config */
